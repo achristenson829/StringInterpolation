@@ -1,7 +1,0 @@
-C:\Users\aid27\RiderProjects\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.exe
-C:\Users\aid27\RiderProjects\StringInterpolation\StringInterpolation\bin\Debug\StringInterpolation.pdb
-C:\Users\aid27\RiderProjects\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.AssemblyReference.cache
-C:\Users\aid27\RiderProjects\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.SuggestedBindingRedirects.cache
-C:\Users\aid27\RiderProjects\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.csproj.CoreCompileInputs.cache
-C:\Users\aid27\RiderProjects\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.exe
-C:\Users\aid27\RiderProjects\StringInterpolation\StringInterpolation\obj\Debug\StringInterpolation.pdb
